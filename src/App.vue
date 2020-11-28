@@ -4,7 +4,6 @@
     <router-link to="/access">Access</router-link>
     <router-link to="/Contact">contact</router-link>
 
-
     <router-view/>
   </div>
 </template>
