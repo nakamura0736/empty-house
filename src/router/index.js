@@ -6,7 +6,6 @@ import Concept from '@/components/concept'
 import Contact from '@/components/contact'
 import Privacy from '@/components/privacy'
 import Questions from '@/components/questions'
-import Voices from '@/components/voices'
 import Access from '@/components/access'
 
 Vue.use(Router)
@@ -37,11 +36,6 @@ export default new Router({
       path: '/questions',
       name: 'Questions',
       component: Questions
-    },
-    {
-      path: '/voices',
-      name: 'Voices',
-      component: Voices
     },
     {
       path: '/access',

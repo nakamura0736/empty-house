@@ -1,0 +1,11 @@
+#pg-header{
+  text-align: center;
+  border-width : medium !important;
+}
+#pg-body{
+  text-align: left;
+}
+
+#contact p{
+ margin-bottom: 0;
+}

@@ -9,7 +9,7 @@
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
           <p>亀岡の空き家相談所</p><br>
           <p>〒000-0000</p><br>
-          <p>兵庫県丹波市柏原町南多田469-1</p>
+          <p>京都府亀岡市きょうときょうと町000-0</p>
         </b-col>
       </b-row >
       <b-navbar id='navbar' toggleable='lg' type='dark' variant='primary'>
@@ -21,17 +21,13 @@
           <b-navbar-nav class='font-small'>
             <b-nav-item to='/concept'>空き家相談所とは？</b-nav-item>
             <b-nav-item to='/questions'>よくある質問</b-nav-item>
-            <b-nav-item to='/voices'>お客様の声</b-nav-item>
             <b-nav-item to='/contact'>ご相談はこちら</b-nav-item>
             <b-nav-item to='/access'>アクセス</b-nav-item>
             <b-nav-item to='/privacy'>個人情報保護ポリシー</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-navbar>
-    
-
       <router-view/>
-
     </b-container>
   </div>
 </template>
@@ -43,6 +39,7 @@ export default {
 </script>
 
 <style>
+@import "./css/styles.css";
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -66,11 +63,5 @@ export default {
   padding-left: 0;
   /* margin-left: 0; */
 
-}
-#top {
-  /* background-color: tan; */
-}
-#navbar {
-  /* background-color: red; */
 }
 </style>

@@ -1,7 +1,7 @@
 <template>
    <div class='pg-privacy'>
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
-         <h1>個人情報保護について</h1><br>
+         <h1>個人情報保護について</h1>
       </div>
       <div id='pg-body'>
          <div class='policy-items pb-4'>
@@ -66,20 +66,5 @@
 </script>
 
 <style>
-#pg-header{
-text-align: center
-}
-#pg-header h1{
-   /* line-height: 36px; */
-}
-#pg-body{
-   text-align: left;
-}
-#contact {
-  /* line-height: 0.8; */
-  /* padding-top: 10px; */
-}
-#contact p{
-  margin-bottom: 0;
-}
+
 </style>
