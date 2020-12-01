@@ -2,6 +2,8 @@
    <div>
       <div class="fixed-wrap">
          <div class="fixed">
+         <h1 class='text-light'>あなたの「実家」は「空き家」になっていませんか？</h1>
+            
          </div>
       </div>
    </div>
@@ -18,5 +20,6 @@
    background-image: url(../assets/img/home.jpg);
    background-attachment: fixed;
    background-size: cover;
+   /* background-size: 450px 180px; */
 }
 </style>

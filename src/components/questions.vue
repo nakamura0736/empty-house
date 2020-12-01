@@ -6,7 +6,7 @@
       <div id='pg-body'>
          <div class='q-category'>
             <h3 class='text-primary mb-4'>空き家関連</h3>
-            <div class='question-items pb-4'>
+            <div class='items pb-4'>
                <h5 class='border-bottom'>Q. 相談は無料ですか？</h5>
                <div>
                   <p>
@@ -15,14 +15,14 @@
                   </p>
                </div>
             </div>
-            <div class='question-items pb-4'>
+            <div class='items pb-4'>
                <h5 class='border-bottom'>Q. 田、畑、山がありますが大丈夫ですか？</h5>
                <p>
                   Ａ．大丈夫です。空き家と一緒に取得していただくか、別々に取得てもらえる方を探します。
                　　<br>　　田、畑、山は残ってしまう場合もございます。
                </p>
             </div>
-            <div class='question-items pb-4'>
+            <div class='items pb-4'>
                <h5 class='border-bottom'>Q. お金をかけたくないのですが大丈夫ですか？</h5>
                <p>
                   Ａ．大丈夫です。あなたのお金や、時間をとられることができるだけ無いように努力いたします。
@@ -33,7 +33,7 @@
          </div>
          <div class='q-category'>
             <h3 class='text-primary mb-4'>相続関連</h3>
-            <div class='question-items pb-4'>
+            <div class='items pb-4'>
                <h5 class='border-bottom'>Q. 亡くなった祖父の名義ですが大丈夫ですか？</h5>
                <div>
                   <p>
@@ -43,7 +43,7 @@
                   </p>
                </div>
             </div>
-            <div class='question-items pb-4'>
+            <div class='items pb-4'>
                <h5 class='border-bottom'>Q. 何も分からないのですが大丈夫ですか？</h5>
                <p>
                   Ａ．ご心配いりません大丈夫です。分からなくて当然のことです。
