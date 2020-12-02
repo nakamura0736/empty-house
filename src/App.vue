@@ -1,17 +1,17 @@
 <template>
   <div id='app'>
-    <b-container fluid='xl'>
+    <b-container>
       <b-row id='top' class='mt-3 mb-2'>
-        <b-col id='top-logo'>
+        <b-col id='top-logo' md='6' sm='12' xs='12'>
           <img src="./assets/img/top_logo.png" alt="top_logo">
         </b-col>
-        <b-col id='top-access'>
+        <b-col id='top-access' md='6' sm='12' xs='12'>
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
           <p>亀岡の空き家相談所</p><br>
           <p>〒000-0000</p><br>
           <p>京都府亀岡市きょうときょうと町000-0</p>
         </b-col>
-      </b-row >
+      </b-row>
       <b-navbar id='navbar' toggleable='lg' type='dark' variant='primary'>
         <b-navbar-brand class='mb-0' to='/'>空き家相談所</b-navbar-brand>
 
@@ -44,9 +44,16 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  /* text-align: center; */
   color: #2c3e50;
-  /* margin-top: 60px; */
+}
+.container{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+img {
+  max-width: 100%;
+  height: auto;
 }
 #top-access {
   line-height: 0.8;
@@ -58,10 +65,5 @@ export default {
   margin-bottom: 0;
   padding-top: 0;
   padding-bottom: 0;
-}
-#top-logo{
-  padding-left: 0;
-  /* margin-left: 0; */
-
 }
 </style>
