@@ -3,7 +3,7 @@
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
          <h1>個人情報保護について</h1>
       </div>
-      <div id='pg-body'>
+      <div id='pg-body' class='mx-auto' style='width: 95%;'>
          <div class='items pb-4'>
             <p>
                亀岡の空き家相談所（以下当事務所）では、個人情報に関する法令およびその他の規範を遵守し<br>

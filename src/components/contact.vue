@@ -3,7 +3,7 @@
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
          <h1>ご相談はこちら</h1>
       </div>
-      <div id='pg-body'>
+      <div id='pg-body' class='mx-auto' style='width: 95%;'>
          <div class='pb-4'>
             <h5>相談をご希望の方は以下のフォームへ入力いただくか、メール、お電話にてご連絡ください。</h5>
          </div>

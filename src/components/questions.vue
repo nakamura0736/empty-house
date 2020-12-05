@@ -3,7 +3,7 @@
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
          <h1>よくある質問</h1>
       </div>
-      <div id='pg-body'>
+      <div id='pg-body' class='mx-auto' style='width: 95%;'>
          <div class='q-category'>
             <h3 class='text-primary mb-4'>空き家関連</h3>
             <div class='items pb-4'>
