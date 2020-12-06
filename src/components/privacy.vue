@@ -54,7 +54,7 @@
          <div id='contact' class='items  pb-4'>
             <h3>個人情報保護に関するお問い合わせ先</h3>
             <p>TEL. <a href="tel:117">080-0000-0000</a></p>
-            <p>E-Mail. <a href='mailto:xxxxxxx&#64;gmail.com'>xxxxxxx&#64;gmail.com</a></p>
+            <p>E-Mail. <a href='mailto:xxxxxxx@gmail.com'>xxxxxxx&#64;gmail.com</a></p>
             <p>亀岡の空き家相談所　代表　山田太郎</p>
          </div>
       </div>
@@ -66,5 +66,11 @@
 </script>
 
 <style>
-
+#contact {
+  line-height: 2.0;
+}
+#contact p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 </style>
