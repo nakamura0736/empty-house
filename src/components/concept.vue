@@ -76,7 +76,7 @@
 <script>
 </script>
 
-<style lang="sass">
+<style>
 .card-columns {
   @include media-breakpoint-only(xl) {
     column-count: 5;
