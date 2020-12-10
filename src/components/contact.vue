@@ -1,5 +1,5 @@
 <template>
-   <div class='pg-privacy'>
+   <div class='pg-contact'>
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
          <h1>ご相談はこちら</h1>
       </div>
