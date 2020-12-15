@@ -8,65 +8,39 @@
             <h5>以下のようなお困りごとがある方はお気軽にご連絡ください！</h5>
          </div>
          <div class="card-columns">
-         <div class="card">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
-            <div class="card-body">
-               <h5 class="card-title">①Card title that wraps to a new line</h5>
-               <!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+            <div class="card">
+               <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
+               <div class="card-body">
+                  <h5 class="card-title">空き家を何とかしたい</h5>
+               </div>
             </div>
-         </div>
-         <div class="card p-3">
-            <blockquote class="blockquote mb-0 card-body">
-               <p>②Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-               <footer class="blockquote-footer">
-               <small class="text-muted">
-                  Someone famous in <cite title="Source Title">Source Title</cite>
-               </small>
-               </footer>
-            </blockquote>
-         </div>
-         <div class="card">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
-            <div class="card-body">
-               <h5 class="card-title">③Card title</h5>
-               <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            <div class="card">
+               <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
+               <div class="card-body">
+                  <h5 class="card-title">空き家を取り壊すのに何百万もかかるので悩んでいる</h5>
+               </div>
             </div>
-         </div>
-         <div class="card bg-primary text-white text-center p-3">
-            <blockquote class="blockquote mb-0">
-               <p>④Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat.</p>
-               <footer class="blockquote-footer text-white">
-               <small>
-                  Someone famous in <cite title="Source Title">Source Title</cite>
-               </small>
-               </footer>
-            </blockquote>
-         </div>
-         <div class="card text-center">
-            <div class="card-body">
-               <h5 class="card-title">⑤Card title</h5>
-               <p class="card-text">This card has a regular title and short paragraphy of text below it.</p>
-               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            <div class="card">
+               <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
+               <div class="card-body">
+                  <h5 class="card-title">私の空き家がご近所に迷惑をかけている</h5>
+               </div>
             </div>
-         </div>
-         <div class="card p-3 text-right">
-            <blockquote class="blockquote mb-0">
-               <p>⑥Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-               <footer class="blockquote-footer">
-               <small class="text-muted">
-                  Someone famous in <cite title="Source Title">Source Title</cite>
-               </small>
-               </footer>
-            </blockquote>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <h5 class="card-title">⑦Card title</h5>
-               <p class="card-text">This is another card with title and supporting text below. This card has some additional content to make it slightly taller overall.</p>
-               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            <div class="card">
+               <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
+               <div class="card-body">
+                  <h5 class="card-title">親から相続した家が空き家になって困っている</h5>
+               </div>
             </div>
-         </div>
+            <div class="card">
+               <svg class="bd-placeholder-img card-img-top" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
+               <div class="card-body">
+                  <h5 class="card-title">空き家の中にある不用品を処分したい</h5>
+               </div>
+            </div>
+
+
+
          </div>
       </div>
    </div>
@@ -77,18 +51,31 @@
 </script>
 
 <style>
-.card-columns {
-  @include media-breakpoint-only(xl) {
-    column-count: 5;
-  }
-  @include media-breakpoint-only(lg) {
-    column-count: 4;
-  }
-  @include media-breakpoint-only(md) {
-    column-count: 2;
-  }
-  @include media-breakpoint-only(sm) {
-    column-count: 2;
-  }
-}
+/* .card-columns { */
+   @media screen and ( max-width:543px) { /* xs */
+      .card-columns {
+         column-count: 1;
+      }
+   }
+   @media screen and (min-width:544px) and ( max-width:767px) { /* sm */
+      .card-columns {
+         column-count: 2;
+      }
+   }
+   @media screen and (min-width:768px) and ( max-width:991px) { /* md */
+      .card-columns {
+         column-count: 2;
+      }
+   }
+   @media screen and (min-width:992px) and ( max-width:1199px) { /* lg */
+      .card-columns {
+         /* column-count: 4; */
+      }
+   }
+   @media screen and (min-width:1200) { /* xl */
+      .card-columns {
+         /* column-count: 5; */
+      }
+   }
+/* } */
 </style>
