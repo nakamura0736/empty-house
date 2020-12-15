@@ -3,7 +3,7 @@
     <b-container>
       <b-row id='top' class='mt-3 mb-2'>
         <b-col id='top-logo' md='6' sm='12' xs='12'>
-          <img src="./assets/img/top_logo.png" alt="top_logo">
+          <img src="./assets/img/top-logo.png" alt="top_logo">
         </b-col>
         <b-col id='top-access' md='6' sm='12' xs='12'>
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
