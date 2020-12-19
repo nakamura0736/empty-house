@@ -3,7 +3,7 @@
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
          <h1>空き家でお困りの方の相談を承っております！</h1>
       </div>
-      <div id='pg-body' class='mx-auto' style='width: 95%;'>
+      <div id='pg-body' class='mx-auto pb-4' style='width: 95%;'>
          <div class='pb-4'>
             <h5>以下のようなお困りごとがある方はお気軽にご連絡ください！</h5>
          </div>
@@ -39,6 +39,13 @@
                </div>
             </div>
          </div>
+      </div>
+      <div class="pb-0 pt-4 mb-4 border-bottom">
+          <h1 class='border-bottom'>業務内容</h1>
+          <ul>
+             <li><h3>空き家のご相談/引き取り</h3></li>
+             <li><h3>空き家内の不用品処分/片付け</h3></li>
+          </ul>
       </div>
    </div>
 
