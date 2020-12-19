@@ -2,10 +2,10 @@
   <div id='app'>
     <b-container>
       <b-row id='top' class='mt-3 mb-2'>
-        <b-col id='top-logo' md='6' sm='12' xs='12'>
+        <b-col id='top-logo' lg='6' md='8' sm='12' xs='12'>
           <img src="./assets/img/top-logo.png" alt="top_logo">
         </b-col>
-        <b-col id='top-access' md='6' sm='12' xs='12'>
+        <b-col id='top-access' lg='6'  md='4' sm='12' xs='12'>
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
           <p>亀岡の空き家相談所</p><br>
           <p>〒000-0000</p><br>
@@ -49,9 +49,14 @@ export default {
   padding-left: 0px;
   padding-right: 0px;
 }
+#top-logo{
+  display: flex;
+  /* align-items: bottom; */
+}
 img {
   max-width: 100%;
   height: auto;
+  /* vertical-align: bottom; */
 }
 #top-access {
   line-height: 0.8;

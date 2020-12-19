@@ -53,12 +53,6 @@
    .card-columns {
       column-count: 1;
    }
-   .card {
-      /* height: 400px; */
-   }
-   .card-img-top {
-      /* height: 300px; */
-   }
 }
 @media screen and (min-width:768px) and ( max-width:991px) { /* md */
    .card {
@@ -73,7 +67,7 @@
       height: 260px;
    }
 }
-@media screen and (min-width:1200px)  { /* lg */
+@media screen and (min-width:1200px)  { /* xl */
    .card {
       height: 300px;
    }
