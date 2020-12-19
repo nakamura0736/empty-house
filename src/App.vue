@@ -51,12 +51,10 @@ export default {
 }
 #top-logo{
   display: flex;
-  /* align-items: bottom; */
 }
 img {
   max-width: 100%;
   height: auto;
-  /* vertical-align: bottom; */
 }
 #top-access {
   line-height: 0.8;
