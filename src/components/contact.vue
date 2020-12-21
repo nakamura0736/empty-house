@@ -27,6 +27,35 @@
             </p>
          </div>
       </div>
+      <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
+         <h1>ご相談の流れ</h1>
+      </div>
+      <div id='pg-body' class='mx-auto' style='width: 95%;'>
+         <div class="card mb-3" style="max-width: 24rem;">
+            <div class="card-body">
+               <h5 class="card-title">① ご連絡をしていただく。</h5>
+            </div>
+            <img class="card-img-top" src="../assets/img/1-phone-call.png" alt="Card image cap">
+         </div>
+         <div class="card mb-3" style="max-width: 24rem;">
+            <div class="card-body">
+               <h5 class="card-title">② 空き家を見せていただく。</h5>
+            </div>
+            <img class="card-img-top" src="../assets/img/2-check-house.png" alt="Card image cap">
+         </div> 
+         <div class="card mb-3" style="max-width: 24rem;">
+            <div class="card-body">
+               <h5 class="card-title">③ どういう方法があるかをご提案いたします。</h5>
+            </div>
+            <img class="card-img-top" src="../assets/img/3-proposal.png" alt="Card image cap">
+         </div> 
+         <div class="card mb-3" style="max-width: 24rem;">
+            <div class="card-body">
+               <h5 class="card-title">④ あなたにとって良い方法をお選びください。</h5>
+            </div>
+            <img class="card-img-top" src="../assets/img/4-happy-end.png" alt="Card image cap">
+         </div> 
+      </div>
    </div>
 
 </template>
