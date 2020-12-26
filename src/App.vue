@@ -51,6 +51,7 @@ export default {
 }
 #top-logo{
   display: flex;
+  align-items: flex-start;
 }
 img {
   max-width: 100%;
