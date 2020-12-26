@@ -9,7 +9,7 @@
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
           <p>亀岡の空き家相談所</p><br>
           <p>〒000-0000</p><br>
-          <p>京都府亀岡市きょうと町test000-0</p>
+          <p>京都府亀岡市きょうと町000-0</p>
         </b-col>
       </b-row>
       <b-navbar id='navbar' toggleable='lg' type='dark' variant='primary'>
