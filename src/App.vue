@@ -3,7 +3,9 @@
     <b-container>
       <b-row id='top' class='mt-3 mb-2'>
         <b-col id='top-logo' lg='6' md='8' sm='12' xs='12'>
-          <img src="./assets/img/top-logo.png" alt="top_logo">
+          <router-link to="/">
+            <img src="./assets/img/top-logo.png" alt="top_logo">
+          </router-link>
         </b-col>
         <b-col id='top-access' lg='6'  md='4' sm='12' xs='12'>
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
@@ -52,6 +54,11 @@ export default {
 #top-logo{
   display: flex;
   align-items: flex-start;
+}
+#top-logo img:hover{
+  box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+  transform: translateY(-4px);
+  transition-duration: 0.5s;
 }
 img {
   max-width: 100%;
