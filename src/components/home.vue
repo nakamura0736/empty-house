@@ -26,7 +26,7 @@
 }
 @media screen and ( max-width:767px) { /* sm */
    #home h1 {
-      font-size: 42px;
+      font-size: 36px;
    }
 }
 @media screen and (min-width:768px) and ( max-width:991px) { /* md */
