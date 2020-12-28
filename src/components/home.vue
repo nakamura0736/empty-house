@@ -16,7 +16,7 @@
 <style>
 .jumbotron {
    height: 800px;
-   background:url(../assets/img/home.png);
+   background:url(../assets/img/home.png) center no-repeat;
    background-size: cover;
    vertical-align: center;
 }
@@ -26,7 +26,7 @@
 }
 @media screen and ( max-width:767px) { /* sm */
    #home h1 {
-      font-size: 48px;
+      font-size: 42px;
    }
 }
 @media screen and (min-width:768px) and ( max-width:991px) { /* md */
