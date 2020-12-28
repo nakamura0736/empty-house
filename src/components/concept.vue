@@ -40,12 +40,26 @@
             </div>
          </div>
       </div>
-      <div class="pb-0 pt-4 mb-4 border-bottom">
-          <h1 class='border-bottom'>業務内容</h1>
-          <ul>
-             <li><h3>空き家のご相談/引き取り</h3></li>
-             <li><h3>空き家内の不用品処分/片付け</h3></li>
-          </ul>
+      <div class="pb-0 pt-4 mb-4">
+         <div id='pg-body' class='mx-auto pb-4' style='width: 95%;'>
+            <div class='pb-4'>
+               <h1 class='border-bottom'>業務内容</h1>
+            </div>
+            <div class="card-columns">
+               <div class="card">
+                  <div class="card-body">
+                     <h3 class="card-title border-bottom">空き家の<br>ご相談/引き取り</h3>
+                  </div>
+                  <img class="card-img-top" src="../assets/img/consulting.png" alt="Card image cap">
+               </div>
+               <div class="card">
+                  <div class="card-body">
+                     <h3 class="card-title border-bottom">空き家内の<br>不用品処分/片付け</h3>
+                  </div>
+                  <img class="card-img-top" src="../assets/img/forniture.png" alt="Card image cap">
+               </div>
+            </div>
+         </div>
       </div>
    </div>
 

@@ -1,6 +1,6 @@
 <template>
    <div id='home'>
-      <div class='jumbotron'>
+      <div class='jumbotron mb-0'>
          <h1 class='text-light'>あなたの
             <br class='br-1st'>「実家」は
             <br class='br-2nd'>「空き家」になって

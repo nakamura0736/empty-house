@@ -30,6 +30,9 @@
         </b-collapse>
       </b-navbar>
       <router-view/>
+      <footer class='footer pt-1 pb-1 bg-primary text-white'>
+        <div class='text-center'> © 2020. 亀岡の空き家相談所 all rights reserved</div>
+      </footer>
     </b-container>
   </div>
 </template>
