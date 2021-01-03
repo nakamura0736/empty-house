@@ -15,16 +15,16 @@
          <div class='items pb-4'>
             <h3 class='border-bottom'>電話番号</h3>
             <div>
-               <p>
+               <h4>
                   <a href="tel:117">080-0000-0000</a>
-               </p>
+               </h4>
             </div>
          </div>
          <div class='items pb-4'>
             <h3 class='border-bottom'>メールアドレス</h3>
-            <p>
+            <h4>
                <a href='mailto:xxxxxxx@gmail.com' target=”_blank”>xxxxxxx&#64;gmail.com</a>
-            </p>
+            </h4>
          </div>
       </div>
       <div id='pg-header' class="pb-0 pt-4 mb-4 border-bottom">
