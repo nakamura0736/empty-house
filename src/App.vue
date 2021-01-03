@@ -9,19 +9,19 @@
         </b-col>
         <b-col id='top-access' lg='6'  md='4' sm='12' xs='12'>
           <p>TEL. <a href="tel:117">080-0000-0000</a></p><br>
-          <p>亀岡の空き家相談所</p><br>
+          <p>田端の空き家相談所</p><br>
           <p>〒000-0000</p><br>
-          <p>京都府亀岡市きょうと町000-0</p>
+          <p>東京都北区田端000-0</p>
         </b-col>
       </b-row>
       <b-navbar id='navbar' toggleable='lg' type='dark' variant='primary'>
-        <b-navbar-brand class='mb-0' to='/'>空き家相談所</b-navbar-brand>
+        <b-navbar-brand class='mb-0' to='/'>田端の空き家相談所</b-navbar-brand>
 
         <b-navbar-toggle target='nav-collapse'></b-navbar-toggle>
 
         <b-collapse id='nav-collapse' is-nav>
           <b-navbar-nav class='font-small'>
-            <b-nav-item to='/concept'>空き家相談所とは？</b-nav-item>
+            <b-nav-item to='/concept'>田端の空き家相談所とは？</b-nav-item>
             <b-nav-item to='/questions'>よくある質問</b-nav-item>
             <b-nav-item to='/contact'>ご相談はこちら</b-nav-item>
             <b-nav-item to='/access'>アクセス</b-nav-item>
@@ -31,7 +31,7 @@
       </b-navbar>
       <router-view/>
       <footer class='footer pt-1 pb-1 bg-primary text-white'>
-        <div class='text-center'> © 2020. 亀岡の空き家相談所 all rights reserved</div>
+        <div class='text-center'> © 2020. 田端の空き家相談所</div>
       </footer>
     </b-container>
   </div>

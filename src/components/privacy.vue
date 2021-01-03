@@ -6,7 +6,7 @@
       <div id='pg-body' class='mx-auto' style='width: 95%;'>
          <div class='items pb-4'>
             <p>
-               亀岡の空き家相談所（以下当事務所）では、個人情報に関する法令およびその他の規範を遵守し<br>
+               田端の空き家相談所（以下当事務所）では、個人情報に関する法令およびその他の規範を遵守し<br>
                お客様の大切な個人情報の保護に万全を尽くします。
             </p>
          </div>
@@ -55,7 +55,7 @@
             <h3>個人情報保護に関するお問い合わせ先</h3>
             <p>TEL. <a href="tel:117">080-0000-0000</a></p>
             <p>E-Mail. <a href='mailto:xxxxxxx@gmail.com'>xxxxxxx&#64;gmail.com</a></p>
-            <p>亀岡の空き家相談所　代表　山田太郎</p>
+            <p>田端の空き家相談所　代表　山田太郎</p>
          </div>
       </div>
    </div>

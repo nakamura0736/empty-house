@@ -7,17 +7,16 @@
          <div id='access-address' class='items pb-4'>
             <h3 class='border-bottom mb-3'>住所</h3>
             <div>
-               <!-- <p>TEL. <a href="tel:117">080-0000-0000</a></p><br> -->
-               <p>亀岡の空き家相談所</p><br>
+               <p>田端の空き家相談所</p><br>
                <p>〒000-0000</p><br>
-               <p>京都府亀岡市きょうと町000-0</p>
+               <p>東京都北区田端000-0000-0</p>
             </div>
          </div>
 
          <div class='items pb-4'>
             <h3 class='border-bottom'>地図</h3>
             <div class="embed-responsive embed-responsive-4by3">
-               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.7273338374985!2d135.57112021524043!3d35.01353008035544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600054ee3886273d%3A0xd56574e80dd75b5b!2z5LqA5bKh5biC5b255omA!5e0!3m2!1sja!2sjp!4v1607146465225!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25900.784729681927!2d139.71715002693315!3d35.76068205576684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018927c8526f577%3A0xe2bceb3e304f3753!2z5YyX5Yy65b255omA!5e0!3m2!1sja!2sjp!4v1609650970702!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
          </div>
       </div>
