@@ -23,7 +23,7 @@
          <div class='items pb-4'>
             <h3 class='border-bottom'>メールアドレス</h3>
             <h4>
-               <a href='mailto:xxxxxxx@gmail.com' target=”_blank”>xxxxxxx&#64;gmail.com</a>
+               <a href='mailto:xxxxxxx@gmail.com' target='_blank'>xxxxxxx&#64;gmail.com</a>
             </h4>
          </div>
       </div>
